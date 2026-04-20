@@ -15,7 +15,6 @@ an Informatics Engineering student at Universitas Logistik dan Bisnis Internasio
 - Shopeefood: Comprehensive database normalization and structural analysis of retail transaction data.
 - KurbanQu: Architecting data distribution flows and core feature logic as the primary foundation for a distribution system
 
----
 
 ### 🔗 Get in Touch
 - **Portfolio:** https://sites.google.com/view/bungasblog/home
